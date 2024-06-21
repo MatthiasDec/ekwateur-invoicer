@@ -1,0 +1,12 @@
+
+W
+java:S1118
+":Add a private constructor to hide the implicit public one.(¢ä»8¬–Öƒ2
+{
+java:S6201"^Replace this instanceof check and cast with 'instanceof IndividualCustomer individualcustomer'(¶Èüñ8€ÿÏÖƒ2
+L
+java:S1172"/Remove this unused method parameter "customer".(±‘×›8¯–Öƒ2
+{
+java:S6201"^Replace this instanceof check and cast with 'instanceof IndividualCustomer individualcustomer'(ØÖİØ8…ÿÏÖƒ2
+L
+java:S1172"/Remove this unused method parameter "customer".(Ú”ú„8°–Öƒ2
